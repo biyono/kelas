@@ -1,0 +1,450 @@
+{
+    "diagnosis":[
+        {
+            "id":1,
+            "title": "nobis suscipit dolorum",
+            "id_domain":1
+        },
+        {
+            "id":2,
+            "title": "necessitatibus quas quas",
+            "id_domain":2
+        },
+        {
+            "id":3,
+            "title": "ut corrupti asperiores",
+            "id_domain":3
+        },
+        {
+            "id":4,
+            "title": "laboriosam vel molestiae",
+            "id_domain":4
+        },
+        {
+            "id":5,
+            "title": "ullam ut non",
+            "id_domain":5
+        },
+        {
+            "id":6,
+            "title": "ut tenetur velit",
+            "id_domain":6
+        },
+        {
+            "id":7,
+            "title": "qui debitis sequi",
+            "id_domain":7
+        },
+        {
+            "id":8,
+            "title": "rerum natus modi",
+            "id_domain":8
+        },
+        {
+            "id":9,
+            "title": "est aut nihil",
+            "id_domain":9
+        },
+        {
+            "id":10,
+            "title": "tempora qui vitae",
+            "id_domain":10
+        },
+        {
+            "id":11,
+            "title": "ut veniam molestiae",
+            "id_domain":11
+        },
+        {
+          "id":12,
+          "title": "maxime accusantium veniam",
+          "id_domain":0
+      },
+      {
+          "id":13,
+          "title": "cum voluptas est",
+          "id_domain":1
+      },
+      {
+          "id":14,
+          "title": "aperiam voluptatem consequatur",
+          "id_domain":2
+      },
+      {
+          "id":15,
+          "title": "est sed aut",
+          "id_domain":3
+      },
+      {
+          "id":16,
+          "title": "saepe exercitationem soluta",
+          "id_domain":4
+      },
+      {
+          "id":17,
+          "title": "rem accusamus dolor",
+          "id_domain":5
+      },
+      {
+          "id":18,
+          "title": "dolores eos sit",
+          "id_domain":6
+      },
+      {
+          "id":19,
+          "title": "debitis saepe veniam",
+          "id_domain":7
+      },
+      {
+          "id":20,
+          "title": "blanditiis repellendus ab",
+          "id_domain":8
+      },
+      {
+          "id":21,
+          "title": "officia esse ipsam",
+          "id_domain":9
+      },
+      {
+          "id":22,
+          "title": "reiciendis libero velit",
+          "id_domain":10
+      },
+      {
+          "id":23,
+          "title": "quisquam dolore voluptas",
+          "id_domain":11
+      },
+      {
+          "id":24,
+          "title": "quis illum est",
+          "id_domain":0
+      },
+      {
+          "id":25,
+          "title": "necessitatibus libero a",
+          "id_domain":1
+      },
+      {
+          "id":26,
+          "title": "iusto vero modi",
+          "id_domain":2
+      },
+      {
+          "id":27,
+          "title": "quo dolore sit",
+          "id_domain":3
+      },
+      {
+          "id":28,
+          "title": "et nihil exercitationem",
+          "id_domain":4
+      },
+      {
+          "id":29,
+          "title": "rerum ipsa dolores",
+          "id_domain":5
+      }
+  
+  
+      ],
+      "luaran":[
+        {
+            "id":1,
+            "title": "mollitia velit dolores",
+            "id_domain":1
+        },
+        {
+            "id":2,
+            "title": "doloremque unde nobis",
+            "id_domain":2
+        },
+        {
+            "id":3,
+            "title": "natus praesentium et",
+            "id_domain":3
+        },
+        {
+            "id":4,
+            "title": "est laudantium quisquam",
+            "id_domain":4
+        },
+        {
+            "id":5,
+            "title": "eius facilis culpa",
+            "id_domain":5
+        },
+        {
+            "id":6,
+            "title": "quis quasi voluptatem",
+            "id_domain":6
+        },
+        {
+            "id":7,
+            "title": "dolores eveniet nobis",
+            "id_domain":7
+        },
+        {
+            "id":8,
+            "title": "dolore ipsum molestias",
+            "id_domain":8
+        },
+        {
+            "id":9,
+            "title": "veritatis sit ut",
+            "id_domain":9
+        },
+        {
+            "id":10,
+            "title": "et eveniet et",
+            "id_domain":10
+        },
+        {
+            "id":11,
+            "title": "sunt tempora vitae",
+            "id_domain":11
+        },
+        {
+          "id":12,
+          "title": "vero beatae dignissimos",
+          "id_domain":0
+      },
+      {
+          "id":13,
+          "title": "dolorum dignissimos rerum",
+          "id_domain":1
+      },
+      {
+          "id":14,
+          "title": "culpa sapiente perspiciatis",
+          "id_domain":2
+      },
+      {
+          "id":15,
+          "title": "voluptas natus aut",
+          "id_domain":3
+      },
+      {
+          "id":16,
+          "title": "rerum rerum quaerat",
+          "id_domain":4
+      },
+      {
+          "id":17,
+          "title": "quam maxime dignissimos",
+          "id_domain":5
+      },
+      {
+          "id":18,
+          "title": "reiciendis tempore totam",
+          "id_domain":6
+      },
+      {
+          "id":19,
+          "title": "at eum dolores",
+          "id_domain":7
+      },
+      {
+          "id":20,
+          "title": "in facere reprehenderit",
+          "id_domain":8
+      },
+      {
+          "id":21,
+          "title": "omnis dolor quasi",
+          "id_domain":9
+      },
+      {
+          "id":22,
+          "title": "necessitatibus consequatur ipsum",
+          "id_domain":10
+      },
+      {
+          "id":23,
+          "title": "blanditiis culpa omnis",
+          "id_domain":11
+      },
+      {
+          "id":24,
+          "title": "rerum nemo non",
+          "id_domain":0
+      },
+      {
+          "id":25,
+          "title": "ipsam commodi sed",
+          "id_domain":1
+      },
+      {
+          "id":26,
+          "title": "placeat iure quos",
+          "id_domain":2
+      },
+      {
+          "id":27,
+          "title": "accusantium quia officia",
+          "id_domain":3
+      },
+      {
+          "id":28,
+          "title": "itaque et accusantium",
+          "id_domain":4
+      },
+      {
+          "id":29,
+          "title": "veniam aut laboriosam",
+          "id_domain":5
+      }
+  
+  
+      ],
+      "intervensi":[
+          
+          {
+              "id":1,
+              "title": "quia beatae perspiciatis",
+              "id_domain":1
+          },
+          {
+              "id":2,
+              "title": "nisi incidunt sed",
+              "id_domain":2
+          },
+          {
+              "id":3,
+              "title": "facilis architecto eveniet",
+              "id_domain":3
+          },
+          {
+              "id":4,
+              "title": "soluta consequatur accusamus",
+              "id_domain":4
+          },
+          {
+              "id":5,
+              "title": "non aliquid sed",
+              "id_domain":5
+          },
+          {
+              "id":6,
+              "title": "inventore officiis mollitia",
+              "id_domain":6
+          },
+          {
+              "id":7,
+              "title": "provident fuga incidunt",
+              "id_domain":7
+          },
+          {
+              "id":8,
+              "title": "eos magni qui",
+              "id_domain":8
+          },
+          {
+              "id":9,
+              "title": "quo non et",
+              "id_domain":9
+          },
+          {
+              "id":10,
+              "title": "impedit voluptates deleniti",
+              "id_domain":10
+          },
+          {
+              "id":11,
+              "title": "voluptatem expedita est",
+              "id_domain":11
+          },
+          {
+            "id":12,
+            "title": "non quae dolor",
+            "id_domain":0
+        },
+        {
+            "id":13,
+            "title": "nobis et natus",
+            "id_domain":1
+        },
+        {
+            "id":14,
+            "title": "vitae optio asperiores",
+            "id_domain":2
+        },
+        {
+            "id":15,
+            "title": "sequi et alias",
+            "id_domain":3
+        },
+        {
+            "id":16,
+            "title": "quasi qui doloremque",
+            "id_domain":4
+        },
+        {
+            "id":17,
+            "title": "nisi laudantium veniam",
+            "id_domain":5
+        },
+        {
+            "id":18,
+            "title": "dolorum et consequatur",
+            "id_domain":6
+        },
+        {
+            "id":19,
+            "title": "culpa molestiae fuga",
+            "id_domain":7
+        },
+        {
+            "id":20,
+            "title": "asperiores doloremque amet",
+            "id_domain":8
+        },
+        {
+            "id":21,
+            "title": "aperiam praesentium nobis",
+            "id_domain":9
+        },
+        {
+            "id":22,
+            "title": "in maiores quis",
+            "id_domain":10
+        },
+        {
+            "id":23,
+            "title": "hic dicta quaerat",
+            "id_domain":11
+        },
+        {
+            "id":24,
+            "title": "ad enim in",
+            "id_domain":0
+        },
+        {
+            "id":25,
+            "title": "temporibus alias consequuntur",
+            "id_domain":1
+        },
+        {
+            "id":26,
+            "title": "ut modi a",
+            "id_domain":2
+        },
+        {
+            "id":27,
+            "title": "laboriosam impedit magni",
+            "id_domain":3
+        },
+        {
+            "id":28,
+            "title": "consequatur tempora nostrum",
+            "id_domain":4
+        },
+        {
+            "id":29,
+            "title": "iste in possimus",
+            "id_domain":5
+        }
+  
+  
+      ]
+  }
